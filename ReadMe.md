@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m @Oye-Ayan<br> Interested in FLUTTER APPS<br>
+ Hi, I’m @Oye-Ayan<br> Software Engineer<br>
 
 
 ## 🌐 Socials:
